@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330060988701",
+    "project_id": "projea-f5ead",
+    "storage_bucket": "projea-f5ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330060988701:android:25804596c71eb26a5261f4",
+        "android_client_info": {
+          "package_name": "com.ahmeter.projea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330060988701-vmabb71epkepjrs9me2phjpa0qehn0pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZAxFrXkbdiQ_1xHkXjJUKhj3-zmCXA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330060988701-vmabb71epkepjrs9me2phjpa0qehn0pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
